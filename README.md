@@ -42,7 +42,7 @@ readme, change the `?username=` value to your GitHub's username.
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Nathanage3&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ## Use theme
@@ -50,7 +50,7 @@ readme, change the `?username=` value to your GitHub's username.
 Add optional parameter of the theme.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nathanage3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
 <p align="center">
@@ -112,7 +112,7 @@ conditions, I will consider adding a trophy. I am waiting for contributions.
 You can filter the display by specifying the titles of trophy.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+https://github-profile-trophy.vercel.app/?username=Nathanage3&title=Followers
 ```
 
 <p align="center">
@@ -131,7 +131,7 @@ You can filter the display by specifying the ranks.\
 `Available values: SECRET SSS SS S AAA AA A B C`
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+https://github-profile-trophy.vercel.app/?username=Nathanage3&rank=S
 ```
 
 <p align="center">
@@ -141,7 +141,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
 If you want to specify multiple ranks.
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
+https://github-profile-trophy.vercel.app/?username=Nathanage3&rank=S,AAA
 ```
 
 You can also exclude ranks.
@@ -362,7 +362,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
 ### discord
 
 ```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
+https://github-profile-trophy.vercel.app/?username=Nathanage3&theme=discord
 ```
 
 <p align="center">
